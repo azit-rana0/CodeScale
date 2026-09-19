@@ -243,7 +243,7 @@ CodeScale/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/riteshrana12-dev/codeScale.git
+git clone https://github.com/azit-rana0/CodeScale.git
 cd CodeScale
 ```
 
