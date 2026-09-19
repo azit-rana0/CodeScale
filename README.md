@@ -293,7 +293,7 @@ This project is licensed under the **ISC License** — see the [LICENSE](./LICEN
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Built+with+%E2%9D%A4%EF%B8%8F+by+Ritesh+Rana;Happy+Coding!+%F0%9F%9A%80" alt="footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Built+with+%E2%9D%A4%EF%B8%8F+by+Azit+Rana;Happy+Coding!+%F0%9F%9A%80" alt="footer" />
 
 <br/>
 
